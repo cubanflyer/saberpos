@@ -1,0 +1,1 @@
+Saber POS is a customized collection of free and open source software found around the internet and packaged together to create a viable option to high cost commercial POS software. Saber POS is a PCI/PA-DSS compliant POS software. Integrated with Mercury Payments Systems, one of the top merchant companies in the United States, and Magtek End2End encrypted card readers.
